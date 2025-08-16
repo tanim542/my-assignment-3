@@ -6,4 +6,4 @@ function  onlyCharacter( str ) {
             return "Invalid";
           }
 }
-console.log(onlyCharacter(["hack", "me"]));
+// console.log(onlyCharacter(["hack", "me"]));

@@ -7,4 +7,4 @@ function totalFine(fare) {
         return "Invalid";
     }
 }
-console.log(totalFine(200));
+// console.log(totalFine(200));
